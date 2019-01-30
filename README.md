@@ -15,7 +15,10 @@ You must also install Selenium. This can simply be done through the terminal usi
 pip install foobar
 ```
 
-After the previous two installations have completed simply run 
+After the previous two installations 
+make sure to input your Gmail username and password in the indicated fields of purge.py
+
+Now simply run 
 ```bash
 python purge.py
 ```
