@@ -12,7 +12,7 @@ Put the web driver executable file in usr/bin or usr/local/bin directory of your
 
 You must also install Selenium. This can simply be done through the terminal using ...
 ```bash
-pip install selenium
+pip install -U selenium
 ```
 
 After the previous two installations 
